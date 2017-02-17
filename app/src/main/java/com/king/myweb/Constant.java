@@ -20,7 +20,7 @@ public class Constant {
     public static final String url_Socre = "http://222.24.62.120/xscjcx.aspx?xh=";
     public static final String code_Score = "&gnmkdm=N121605";
     //登录url
-    public static final String url_login2 = "http://222.24.62.120/default2.aspx";
+    public static final String url_login2 = "http://http://222.24.19.201/";
     //获取验证码url
     public static final String url_bitmap = "http://222.24.62.120/CheckCode.aspx";
 

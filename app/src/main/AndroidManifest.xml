@@ -11,20 +11,20 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name=".VerMainActivity">
+            android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".FirstActivity"></activity>
+        <activity android:name=".VerMainActivity"></activity>
         <activity android:name=".ModifyPwdActivity"></activity>
         <activity android:name=".InformationActivity"></activity>
         <activity android:name=".PlanActivity"></activity>
         <activity android:name=".CurriculumActivity"></activity>
         <activity android:name=".ScoreActivity"></activity>
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".FirstActivity"></activity>
     </application>
 
 </manifest>
